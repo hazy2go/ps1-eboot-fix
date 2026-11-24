@@ -1,0 +1,8 @@
+.cache/
+*.PBP
+*.pbp
+*.bin
+*.cue
+*.iso
+out*/
+.DS_Store
